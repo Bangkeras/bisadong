@@ -14,8 +14,9 @@ on:
   workflow_dispatch:
 
 
-
-  # This workflow contains a single job called "build"
+jobs:
+  
+# This workflow contains a single job called "build"
   test:
    name: bisadong
     # The type of runner that the job will run on
